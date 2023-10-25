@@ -14,4 +14,4 @@ Leclu.langs = { //newbie, still learning
   "css"
 ];
 
-Leclu.traits = [ "just a littel boy" ];
+Leclu.traits = [ "i am mentally eel 🤠" ];
