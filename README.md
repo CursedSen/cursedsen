@@ -1,3 +1,4 @@
+```javascript
 const Leclu = new Dumbass();
 //silly lil' guy
 
@@ -15,3 +16,4 @@ Leclu.langs = { //newbie, still learning
 ];
 
 Leclu.traits = [ "i am mentally eel 🤠" ];
+```
