@@ -1,16 +1,17 @@
-### Hi there 👋
+const Leclu = new Dumbass();
+//silly lil' guy
 
-<!--
-**Leclu/Leclu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Leclu.social = { //dumb fuckery
+  twitter: "https://twitter.com/SleepyLeclu",
+  discord: "@leclu",
+  github: "this",
+  steam: "https://steamcommunity.com/id/Leclu/"
+};
 
-Here are some ideas to get you started:
+Leclu.langs = { //newbie, still learning
+  "js",
+  "html",
+  "css"
+];
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Leclu.traits = [ "just a littel boy" ];
