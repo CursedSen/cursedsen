@@ -1,19 +1,19 @@
 ```javascript
-const Leclu = new Dumbass();
+const sifsen = new Dumbass();
 //silly lil' guy
 
-Leclu.social = { //dumb fuckery
-  twitter: "https://twitter.com/SleepyLeclu",
-  discord: "@leclu",
+sifsen.social = { //dumb fuckery
+  twitter: "https://twitter.com/sifsenn",
+  discord: "@sifsen",
   github: "this",
-  steam: "https://steamcommunity.com/id/Leclu/"
+  steam: "https://steamcommunity.com/id/sifsen/"
 };
 
-Leclu.langs = { //newbie, still learning
+sifsen.langs = { //newbie, still learning
   "js",
   "html",
   "css"
 ];
 
-Leclu.traits = [ "i am mentally eel 🤠" ];
+sifsen.traits = [ "i am mentally eel 🤠" ];
 ```
