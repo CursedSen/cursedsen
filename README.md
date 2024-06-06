@@ -3,7 +3,7 @@ const sifsen = new Dumbass();
 //silly lil' guy
 
 sifsen.social = { //dumb fuckery
-  twitter: "https://twitter.com/sifsenn",
+  twitter: "https://twitter.com/likelysen",
   discord: "@sifsen",
   github: "this",
   steam: "https://steamcommunity.com/id/sifsen/"
