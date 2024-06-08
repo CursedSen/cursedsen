@@ -11,6 +11,6 @@ object-fit: fill;
 background-size: fill;
 width: 100vw;
 height: 100vh;
-opacity: 0.71;
+opacity: 0.50;
 background: url('https://raw.githubusercontent.com/sifsen/img/main/gifs/yeahyeah.gif');
 "]{}
