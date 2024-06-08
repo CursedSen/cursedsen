@@ -12,5 +12,5 @@ background-size: fill;
 width: 100vw;
 height: 100vh;
 opacity: 0.30;
-background: url('https://raw.githubusercontent.com/sifsen/img/main/gifs/bmw.gif');
+background: url('https://raw.githubusercontent.com/sifsen/img/main/gifs/yeahyeah.gif');
 "]{}
