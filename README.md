@@ -12,5 +12,5 @@ background-size: fill;
 width: 100vw;
 height: 100vh;
 opacity: 0.71;
-background: url('https://raw.githubusercontent.com/sifsen/img/main/gifs/steam.gif');
+background: url('https://raw.githubusercontent.com/sifsen/img/main/gifs/giphy.gif');
 "]{}
