@@ -8,7 +8,7 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-didntdrinkwater-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/likelysen/)](https://twitter.com/likelysen/)
+[![Twitter Badge](https://img.shields.io/badge/-likelysen-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/likelysen/)](https://twitter.com/likelysen/)
 
 ```math
 \mmlToken{ms}[fontfamily="
@@ -23,7 +23,7 @@ background-size: cover;
 width: 100vw;
 height: 100vh;
 opacity: 0.71;
-background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');
+background: url('https://raw.githubusercontent.com/younesbram/img/main/bruh.gif');
 "]{}
 
 
