@@ -1,6 +1,3 @@
-```javascript
-const sifsen = new Dumbass();
-
 <a href="https://sifsen.lol/">
 
 ```javascript
@@ -9,6 +6,9 @@ window.location.replace(`https://sifsen.lol/`)
 
 ```
 </a>
+
+```javascript
+const sifsen = new Dumbass();
 
 sifsen.attributes = {
   names: ['Sen','Sifsen'],
