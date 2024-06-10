@@ -1,3 +1,4 @@
+```javascript
 const sifsen = new Dumbass();
 
 // click here to go to my website!
@@ -21,3 +22,4 @@ zappy.languageLanguages = [
   'Dutch',
   'German'
 ];
+```
