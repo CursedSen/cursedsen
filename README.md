@@ -1,16 +1,23 @@
+const sifsen = new Dumbass();
 
-```math
-\mmlToken{ms}[fontfamily="
-goombafont;
-color:black;
-pointer-events:none;
-z-index: -11;
-position: fixed;
-inset:0;
-object-fit: fill;
-background-size: fill;
-width: 100vw;
-height: 100vh;
-opacity: 0.30;
-background: url('https://raw.githubusercontent.com/sifsen/img/main/gifs/yeahyeah.gif');
-"]{}
+// click here to go to my website!
+window.location.replace(`https://sifsen.lol/`)
+
+sifsen.attributes = {
+  names: ['Sen','Sifsen'],
+  age: 19,
+  appleEnthusiast: true
+};
+
+sifsen.codeLanguages = [
+  'HTML',
+  'CSS',
+  'JavaScript',
+  'Python'
+];
+
+zappy.languageLanguages = [
+  'English',
+  'Dutch',
+  'German'
+];
