@@ -13,7 +13,7 @@ const sifsen = new Dumbass();
 sifsen.attributes = {
   names: ['Sen','Sifsen'],
   age: 19,
-  appleEnthusiast: true
+  linuxHater: true
 };
 
 sifsen.codeLanguages = [
