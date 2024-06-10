@@ -23,7 +23,7 @@ sifsen.codeLanguages = [
   'Python'
 ];
 
-zappy.languageLanguages = [
+sifsen.languageLanguages = [
   'English',
   'Dutch',
   'German'
