@@ -6,26 +6,3 @@ window.location.replace(`https://sifsen.lol/`)
 
 ```
 </a>
-
-```javascript
-const sifsen = new Dumbass();
-
-sifsen.attributes = {
-  names: ['Sen','Sifsen'],
-  age: 19,
-  linuxHater: true
-};
-
-sifsen.codeLanguages = [
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'Python'
-];
-
-sifsen.languageLanguages = [
-  'English',
-  'Dutch',
-  'German'
-];
-```
