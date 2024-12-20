@@ -13,7 +13,7 @@ class Sen {
         return {
             web: "https://sen.wtf",
             email: "contact@sen.wtf",
-            discord: "@cursedsen / 374589381752913930"
+            discord: "@sifsen / 374589381752913930"
         };
     }
 }
