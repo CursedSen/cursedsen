@@ -1,4 +1,12 @@
 <div align="center">
+<pre>
+███████╗███████╗███╗   ██╗
+██╔════╝██╔════╝████╗  ██║
+███████╗█████╗  ██╔██╗ ██║
+╚════██║██╔══╝  ██║╚██╗██║
+███████║███████╗██║ ╚████║
+╚══════╝╚══════╝╚═╝  ╚═══╝
+</pre>
 <p>
   <a href="https://github.com/cursedsen">
     <img src="https://github-readme-stats.vercel.app/api?username=cursedsen&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Operation Record - cursedsen">
