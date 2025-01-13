@@ -16,9 +16,6 @@
 ██║ ╚████║███████╗ ╚████╔╝ ███████╗██║  ██║    ██║  ██╗   ██║   ███████║
 ╚═╝  ╚═══╝╚══════╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝   ╚═╝   ╚══════╝
 </pre>
-<a href="https://discord.com/users/374589381752913930" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/374589381752913930?bg=1f1f1f&borderRadius=0px">
-</a>
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cursedsen&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Tactical Support Unit Analysis">
 </p>
