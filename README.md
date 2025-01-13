@@ -8,14 +8,7 @@
  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═══╝
                                                                            
 </pre>
-<pre>
-███╗   ██╗███████╗██╗   ██╗███████╗██████╗     ██╗  ██╗██╗   ██╗███████╗
-████╗  ██║██╔════╝██║   ██║██╔════╝██╔══██╗    ██║ ██╔╝╚██╗ ██╔╝██╔════╝
-██╔██╗ ██║█████╗  ██║   ██║█████╗  ██████╔╝    █████╔╝  ╚████╔╝ ███████╗
-██║╚██╗██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██╔══██╗    ██╔═██╗   ╚██╔╝  ╚════██║
-██║ ╚████║███████╗ ╚████╔╝ ███████╗██║  ██║    ██║  ██╗   ██║   ███████║
-╚═╝  ╚═══╝╚══════╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝   ╚═╝   ╚══════╝
-</pre>
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/dnn125snvm92c1w3xvkuat73q)
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cursedsen&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Tactical Support Unit Analysis">
 </p>
